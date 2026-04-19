@@ -131,8 +131,9 @@ It highlights the balance between:
 ## 📂 Project Structure
 
 ```
-├── train.ipynb        # Main training notebook
-├── README.md          # Project report
+├── train.ipynb     # Main training notebook
+ ├── README.md      # Project report
+├── gates.png      # Gate distribution plot
 
 ```
 
